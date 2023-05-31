@@ -1,5 +1,5 @@
 export default function BagArea() {
   return (
-    <div>BagArea</div>
+    <div className="w-10">BagArea</div>
   )
 }
