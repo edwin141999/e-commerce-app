@@ -33,7 +33,7 @@ export default function ContentFrame() {
   ];
   
   return (
-    <div className="bg-red w-8/12">
+    <div className="w-9/12">
       {/* SEARCH BAR */}
       <div className="flex flex-col items-center mt-6">
         <div>
